@@ -20,14 +20,18 @@ PRIYADHARSHNI.M
 
 https://prod-apsoutheast-a.online.tableau.com/#/site/priyadharshinil1yh/home 
 
+DASHBOARD DEMONSTRATION URL:
+
+https://drive.google.com/file/d/1VXidu_qZfbUgBWdxjE27rQMXx_QajcGG/view?usp=drivesdk
+
+STORY DEMONSTRATE URL:
+
+https://drive.google.com/file/d/1VYZGGPOGoIzKqGNPdAxVzHF8k_bOAx-m/view?usp=drivesdk
+
 
 PROJECT REPORT URL:  
 
 https://in.docworkspace.com/d/sIBjk1_ujAbiCqaIG?sa=00&st=0t
-
-PROJECT REPORT SLIDE URL:
-
-https://in.docworkspace.com/d/sILfk1_ujAYX9mqIG?sa=00&st=1t 
 
 PROJECT DEMONSTRATION URL: 
 
